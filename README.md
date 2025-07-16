@@ -67,7 +67,7 @@ Follow the notebook steps to load data, preprocess it, visualize sentiments, and
 
 ## 📷 Sample Output
 
-# Sentiment Distribution
+### Sentiment Distribution
 
 <img width="964" height="572" alt="image" src="https://github.com/user-attachments/assets/f85c7498-3086-440b-8914-1aae16aeb214" />
 
