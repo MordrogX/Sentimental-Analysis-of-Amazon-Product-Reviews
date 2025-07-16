@@ -84,4 +84,3 @@ Follow the notebook steps to load data, preprocess it, visualize sentiments, and
 
 - Logistic Regression
 - Naive Bayes
-- (Optional: You can expand to include SVM, Random Forest)
